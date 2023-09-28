@@ -2,8 +2,6 @@
 
 This is a Golang CRUD project with a movie as the object sourced from freeCodeCamp.
 
-This time I want to share my learning results sourced from freeCodeCamp.
-
 To run it, you can build <pre>go build</pre>
 or running
 
