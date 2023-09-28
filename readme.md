@@ -1,6 +1,6 @@
 <h2>Go-Movies</h2>
 
-This is a Golang CRUD project with a movie as the object sourced from freeCodeCamp.
+This is a Golang CRUD project with a movie as the object.
 
 To run it, you can build <pre>go build</pre>
 or running
